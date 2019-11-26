@@ -15,7 +15,7 @@ import com.airbnb.lottie.LottieAnimationView;
  * 简书:    http://www.jianshu.com/u/61f41588151d
  * github:  https://github.com/panacena
  */
-public class ClickActivity extends AppCompatActivity {
+public class ClickActivity extends AppCompatActivity {//test
 
     private Button button1,button2;
     private TextView tv_seek;
