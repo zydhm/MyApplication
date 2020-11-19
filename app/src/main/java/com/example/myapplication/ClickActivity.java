@@ -19,6 +19,7 @@ public class ClickActivity extends AppCompatActivity {//test again
 
     private Button button1,button2;
     private TextView tv_seek;
+
     LottieAnimationView animation_view_click;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
